@@ -1,2 +1,4 @@
 # Mi-primer-repo
-Repositorio de prueba
+Repositorio de prueba!
+
+I love :pizza: :beer: :chicken:
